@@ -11,9 +11,6 @@ Estudante de Ciência da Computação no Centro Universitário Filadélfia - Uni
 🛠️ Stack de Tecnologias
 Aqui estão as principais ferramentas e tecnologias que utilizo e estou estudando:
 
-📈 Estatísticas do GitHub
-<div align="center"> <a href=""> <img height="180em" src="[SEU_USUARIO]&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/> <img height="180em" src="[SEU_USUARIO]&layout=compact&langs_count=6&theme=buefy"/> </a> </div>
-
 📞 Conecte-se Comigo
 Estou sempre aberto a novas conexões e oportunidades.
 
